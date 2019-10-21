@@ -3,9 +3,9 @@
 Practice creating webpages with React Bootstrap
 
 [Tools for use]
-VSCode
-React Bootstrap
-React Router Dom
+VSCode,
+React Bootstrap,
+React Router Dom,
 styled Components
 
 [Build while watching Brice Ayres YouTube]
